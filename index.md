@@ -1,4 +1,4 @@
-## Petrosyan.law🚀 
+## Petrosyan.law 🚀 
 
 Based out of Los Angeles, California.
 
@@ -11,5 +11,7 @@ Based out of Los Angeles, California.
 
 ### Contact
 
+email: rudolf@petrosyan.law
 twitter.com/petrosyanlaw
+instagram.com/petrosyan.law
 
