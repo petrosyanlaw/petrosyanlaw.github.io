@@ -9,7 +9,5 @@ Based out of Los Angeles, California, providing the following legal services:
 
 ### Contact
 
-email: rudolf@petrosyan.law
-twitter.com/petrosyanlaw
-instagram.com/petrosyan.law
+email: rudolf@petrosyan.law | twitter.com/petrosyanlaw | instagram.com/petrosyan.law
 
