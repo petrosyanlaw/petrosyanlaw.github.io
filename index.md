@@ -1,8 +1,6 @@
 ## Petrosyan.law 🚀 
 
-Based out of Los Angeles, California.
-
-## Legal Services 
+Based out of Los Angeles, California, providing the following legal services:
 
 - Business Formation
 - Trademarks 
