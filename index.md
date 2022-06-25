@@ -2,7 +2,8 @@
 
 - Business Formation
 - Trademarks 
-- Contract Review and Negotiation
+- Contract Review
+- Contract Negotiation
 
 ### Contact
 
