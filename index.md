@@ -1,7 +1,5 @@
 ## Petrosyan.law 🚀 
 
-#### Attorney Profile
-
 ##### Located in Los Angeles, California. 
 
 #### Services
