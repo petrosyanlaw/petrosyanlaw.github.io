@@ -2,7 +2,7 @@
 
 #### Attorney Profile
 
-##### A
+##### Located in Los Angeles, California. 
 
 #### Services
 
@@ -15,7 +15,6 @@
 
 #### Connect
 
-- Located out of Los Angeles, California 
 - email: rudolf@petrosyan.law
 - twitter.com/petrosyanlaw 
 - instagram.com/petrosyan.law 
