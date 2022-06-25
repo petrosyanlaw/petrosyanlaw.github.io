@@ -2,10 +2,10 @@
 
 #### Based out of Los Angeles, California, providing legal services for:
 
-Business Formation
-Trademarks 
-Contract Review
-Contract Negotiation
+-Business Formation
+-Trademarks 
+-Contract Review
+-Contract Negotiation
 
 ### Contact
 
