@@ -1,14 +1,21 @@
 ## Petrosyan.law 🚀 
 
-#### Based out of Los Angeles, California, providing legal services for:
+#### Attorney Profile
+
+##### A
+
+#### Services
 
 - Business Formation
 - Trademarks 
 - Contract Review
 - Contract Negotiation
+- SEC Compliance
+- Blockchain and Cryptocurrency Law
 
-#### Contact
+#### Connect
 
+- Located out of Los Angeles, California 
 - email: rudolf@petrosyan.law
 - twitter.com/petrosyanlaw 
 - instagram.com/petrosyan.law 
