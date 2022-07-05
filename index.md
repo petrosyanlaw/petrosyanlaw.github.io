@@ -1,11 +1,11 @@
 ## Petrosyan.law 🚀 
 
-##### Located in Los Angeles, California. 
+##### Practicing out of Los Angeles, California, Rudolf Petrosyan has years of transactional and litigation experience.
 
 #### Services
 
 - Business Formation
-- Trademarks 
+- Intellectual Property 
 - Contract Review
 - Contract Negotiation
 - SEC Compliance
