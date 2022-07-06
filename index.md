@@ -14,5 +14,7 @@
 
 #### Connect
 
-email: rudolf@petrosyan.law | twitter.com/petrosyanlaw | instagram.com/petrosyan.law 
+- email: rudolf@petrosyan.law
+- twitter.com/petrosyanlaw
+- instagram.com/petrosyan.law 
 
