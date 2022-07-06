@@ -1,4 +1,4 @@
-## Welcome to Petrosyan.law 🚀 
+## Petrosyan.law 🚀 
 
 ### Services
 
@@ -13,4 +13,4 @@
 - email: rudolf@petrosyan.law
 - twitter.com/petrosyanlaw
 - instagram.com/petrosyan.law 
-📍Los Angeles, California
+- 📍Los Angeles, California
