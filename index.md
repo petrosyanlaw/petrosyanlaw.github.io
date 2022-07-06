@@ -10,8 +10,7 @@
 - Blockchain and Cryptocurrency Law
 
 ### Connect
-📍Los Angeles, California
 - email: rudolf@petrosyan.law
 - twitter.com/petrosyanlaw
 - instagram.com/petrosyan.law 
-
+📍Los Angeles, California
