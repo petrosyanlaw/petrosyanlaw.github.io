@@ -1,9 +1,6 @@
 ## Petrosyan.law 🚀 
 
-##### 📍Los Angeles, California
-
-
-#### Services
+### Services
 
 - Business Formation
 - Intellectual Property 
@@ -12,8 +9,8 @@
 - SEC Compliance
 - Blockchain and Cryptocurrency Law
 
-#### Connect
-
+### Connect
+- 📍Los Angeles, California
 - email: rudolf@petrosyan.law
 - twitter.com/petrosyanlaw
 - instagram.com/petrosyan.law 
