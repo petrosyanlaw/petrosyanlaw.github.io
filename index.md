@@ -8,5 +8,5 @@
 - Litigation
 
 ### Connect
-- 📍Los Angeles, California
+- 📍 Los Angeles, California
 - 📫 mail@petrosyan.law
