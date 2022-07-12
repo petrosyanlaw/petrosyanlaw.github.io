@@ -1,16 +1,14 @@
 ## Petrosyan.law 🚀 
 
-### Services
+### Legal Services
 
 - Business Formation
 - Intellectual Property 
-- Contract Review
-- Contract Negotiation
-- SEC Compliance
+- Contract Review and Contract Negotiation
 - Blockchain and Cryptocurrency Law
+- Cannabis Law
+- Litigation
 
 ### Connect
-- email: rudolf@petrosyan.law
-- twitter.com/petrosyanlaw
-- instagram.com/petrosyan.law 
 - 📍Los Angeles, California
+- 📫 rudolf@petrosyan.law
