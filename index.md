@@ -9,4 +9,4 @@
 
 ### Connect
 - 📍Los Angeles, California
-- 📫 rudolf@petrosyan.law
+- 📫 mail@petrosyan.law
