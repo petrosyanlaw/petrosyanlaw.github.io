@@ -5,7 +5,7 @@
 - Contract Review and Contract Negotiation
 - Blockchain and Cryptocurrency Law
 - Cannabis Law
-- Litigation
+- Visa Applications
 
 ### Connect
 - 📍 Los Angeles, California
