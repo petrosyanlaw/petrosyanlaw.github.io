@@ -1,5 +1,3 @@
-# Petrosyan.law 🚀 
-
 ### Legal Services
 - Business Formation
 - Intellectual Property 
