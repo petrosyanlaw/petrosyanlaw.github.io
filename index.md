@@ -1,6 +1,6 @@
 ### About
 
-Petrosyan.law is licensed to practice law in the State of California and works with its clients to find innovative solutions for their legal needs. 
+Petrosyan.law is licensed to practice law in the State of California and works with its clients to find innovative solutions to their legal needs. 
 
 ### Legal Services
 - Intellectual Property 
