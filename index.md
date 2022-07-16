@@ -3,12 +3,12 @@
 Petrosyan.law is licensed to practice law in the State of California and works with its clients to find innovative solutions for their legal needs. 
 
 ### Legal Services
-- Business Formation
 - Intellectual Property 
-- Contract Review and Contract Negotiation
+- Contract Review and Negotiation
+- Business Formation
 - Blockchain and Cryptocurrency Law
 - Cannabis Law
-- Visa Applications
+- Toxic Tort Law
 
 ### Connect
 - 📍 Los Angeles, California
