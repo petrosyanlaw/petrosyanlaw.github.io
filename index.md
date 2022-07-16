@@ -1,6 +1,6 @@
 ### About
 
-Petrosyan.law is licesend to practice law in the state of California and works with its clients to find innovative solutions to their legal problems. 
+Petrosyan.law is licesend to practice law in the state of California and works with its clients to find innovative solutions for their legal needs. 
 
 ### Legal Services
 - Business Formation
